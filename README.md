@@ -2,7 +2,11 @@
 
 Landing page con herramienta de alquiler de maquinaria y equipos para obras eléctricas y civiles. Funciona sin backend: los datos de prueba se generan al cargar y se guardan en `localStorage`.
 
-## Ejecutar
+## Demo
+
+https://danielestebanchacondiaz.github.io/retoCampuslads/
+
+## Ejecutar en local
 
 ```bash
 npm install

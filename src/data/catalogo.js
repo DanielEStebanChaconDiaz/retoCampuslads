@@ -30,7 +30,7 @@ export const MAQUINAS = [
     demanda: 0.8,
     similares: ['malacate-hidraulico', 'elevador-cvi602'],
     accesorios: ['polea-20', 'polea-14', 'dinamometro-digital', 'agarradora-aluminio-conductor', 'puesta-tierra'],
-    imagen: '/maquinas/frenadora-afs404.jpg',
+    imagen: 'maquinas/frenadora-afs404.jpg',
   },
   {
     id: 'malacate-hidraulico',
@@ -52,7 +52,7 @@ export const MAQUINAS = [
     demanda: 0.75,
     similares: ['malacate-u6', 'malacate-u5', 'frenadora-afs404'],
     accesorios: ['polea-20', 'dinamometro-digital', 'agarradora-acero-guarda', 'diferencial-3'],
-    imagen: '/maquinas/malacate-hidraulico.jpg',
+    imagen: 'maquinas/malacate-hidraulico.jpg',
   },
   {
     id: 'malacate-u5',
@@ -73,7 +73,7 @@ export const MAQUINAS = [
     demanda: 0.5,
     similares: ['malacate-u6', 'malacate-hidraulico'],
     accesorios: ['polea-sencilla', 'polea-14', 'dinamometro-analogo'],
-    imagen: '/maquinas/malacate-u5.jpg',
+    imagen: 'maquinas/malacate-u5.jpg',
   },
   {
     id: 'malacate-u6',
@@ -94,7 +94,7 @@ export const MAQUINAS = [
     demanda: 0.55,
     similares: ['malacate-u5', 'malacate-hidraulico'],
     accesorios: ['polea-sencilla', 'polea-20', 'dinamometro-analogo', 'diferencial-3'],
-    imagen: '/maquinas/malacate-u6.jpg',
+    imagen: 'maquinas/malacate-u6.jpg',
   },
   {
     id: 'elevador-cvi602',
@@ -123,7 +123,7 @@ export const MAQUINAS = [
     demanda: 0.5,
     similares: ['frenadora-afs404'],
     accesorios: ['puesta-tierra'],
-    imagen: '/maquinas/elevador-cvi602.jpg',
+    imagen: 'maquinas/elevador-cvi602.jpg',
   },
   {
     id: 'minicargador-l218',
@@ -147,7 +147,7 @@ export const MAQUINAS = [
     demanda: 0.7,
     similares: ['camion-grua'],
     accesorios: ['horquilla', 'martillo-dms210'],
-    imagen: '/maquinas/minicargador-l218.jpg',
+    imagen: 'maquinas/minicargador-l218.jpg',
   },
   {
     id: 'camion-grua',
@@ -170,7 +170,7 @@ export const MAQUINAS = [
     demanda: 0.85,
     similares: ['pluma-24', 'pluma-36', 'minicargador-l218'],
     accesorios: ['diferencial-6', 'dinamometro-digital'],
-    imagen: '/maquinas/camion-grua.jpg',
+    imagen: 'maquinas/camion-grua.jpg',
   },
   {
     id: 'pluma-24',
@@ -191,7 +191,7 @@ export const MAQUINAS = [
     demanda: 0.55,
     similares: ['pluma-36', 'camion-grua'],
     accesorios: ['diferencial-3', 'diferencial-6', 'polea-sencilla'],
-    imagen: '/maquinas/pluma-24.jpg',
+    imagen: 'maquinas/pluma-24.jpg',
   },
   {
     id: 'pluma-36',
@@ -212,7 +212,7 @@ export const MAQUINAS = [
     demanda: 0.6,
     similares: ['pluma-24', 'camion-grua'],
     accesorios: ['diferencial-6', 'polea-sencilla', 'dinamometro-digital'],
-    imagen: '/maquinas/pluma-36.jpg',
+    imagen: 'maquinas/pluma-36.jpg',
   },
   {
     id: 'telurometro-tm25m',
@@ -238,7 +238,7 @@ export const MAQUINAS = [
     demanda: 0.45,
     similares: ['analizador-mi3290'],
     accesorios: ['puesta-tierra'],
-    imagen: '/maquinas/telurometro-tm25m.jpg',
+    imagen: 'maquinas/telurometro-tm25m.jpg',
   },
   {
     id: 'analizador-mi3290',
@@ -259,7 +259,7 @@ export const MAQUINAS = [
     demanda: 0.4,
     similares: ['telurometro-tm25m'],
     accesorios: ['puesta-tierra'],
-    imagen: '/maquinas/analizador-mi3290.jpg',
+    imagen: 'maquinas/analizador-mi3290.jpg',
   },
   {
     id: 'estacion-gts236w',
@@ -282,7 +282,7 @@ export const MAQUINAS = [
     demanda: 0.5,
     similares: [],
     accesorios: [],
-    imagen: '/maquinas/estacion-gts236w.jpg',
+    imagen: 'maquinas/estacion-gts236w.jpg',
   },
   {
     id: 'planta-gpk22',
@@ -303,7 +303,7 @@ export const MAQUINAS = [
     demanda: 0.5,
     similares: ['planta-yde8500'],
     accesorios: [],
-    imagen: '/maquinas/planta-gpk22.jpg',
+    imagen: 'maquinas/planta-gpk22.jpg',
   },
   {
     id: 'planta-yde8500',
@@ -324,7 +324,7 @@ export const MAQUINAS = [
     demanda: 0.45,
     similares: ['planta-gpk22'],
     accesorios: [],
-    imagen: '/maquinas/planta-yde8500.jpg',
+    imagen: 'maquinas/planta-yde8500.jpg',
   },
   {
     id: 'taladro-dd150',
@@ -345,7 +345,7 @@ export const MAQUINAS = [
     demanda: 0.4,
     similares: [],
     accesorios: [],
-    imagen: '/maquinas/taladro-dd150.jpg',
+    imagen: 'maquinas/taladro-dd150.jpg',
   },
   {
     id: 'mezcladora-electrica',
@@ -366,7 +366,7 @@ export const MAQUINAS = [
     demanda: 0.35,
     similares: ['mezcladora-diesel'],
     accesorios: [],
-    imagen: '/maquinas/mezcladora-electrica.jpg',
+    imagen: 'maquinas/mezcladora-electrica.jpg',
   },
   {
     id: 'mezcladora-diesel',
@@ -387,7 +387,7 @@ export const MAQUINAS = [
     demanda: 0.4,
     similares: ['mezcladora-electrica'],
     accesorios: [],
-    imagen: '/maquinas/mezcladora-diesel.jpg',
+    imagen: 'maquinas/mezcladora-diesel.jpg',
   },
   {
     id: 'laser-removedor',
@@ -410,7 +410,7 @@ export const MAQUINAS = [
     demanda: 0.65,
     similares: [],
     accesorios: ['detector-sew', 'guantes-clase-2'],
-    imagen: '/maquinas/laser-removedor.jpg',
+    imagen: 'maquinas/laser-removedor.jpg',
   },
   {
     id: 'bodega-20',
@@ -431,7 +431,7 @@ export const MAQUINAS = [
     demanda: 0.45,
     similares: ['oficina-20'],
     accesorios: [],
-    imagen: '/maquinas/bodega-20.jpg',
+    imagen: 'maquinas/bodega-20.jpg',
   },
   {
     id: 'oficina-20',
@@ -452,7 +452,7 @@ export const MAQUINAS = [
     demanda: 0.5,
     similares: ['bodega-20'],
     accesorios: [],
-    imagen: '/maquinas/oficina-20.jpg',
+    imagen: 'maquinas/oficina-20.jpg',
   },
   {
     id: 'marcado-laser',
@@ -473,7 +473,7 @@ export const MAQUINAS = [
     demanda: 0.25,
     similares: [],
     accesorios: [],
-    imagen: '/maquinas/marcado-laser.jpg',
+    imagen: 'maquinas/marcado-laser.jpg',
   },
 ]
 
